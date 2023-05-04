@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">WellnessApp</string>
+
+    <string name="day1">day1</string>
+    <string name="day1_title">매일 아침 일어나서 스트레칭하기.</string>
+    <string name="day1_content">종이인간 수준의 저질체력인 사람들이라면 스트레칭만으로도 몸이 달라지는 것을 느낄 수 있다. 우리가 초,중,고등학교 시절 배웠던 국민 체조와 새천년 체조는 그 분야의 전문가가 심혈을 기울여 만든 체조이기 때문에 무슨 체조를 해야할지 모르겠다면 이 두 체조를 기본적으로 추천한다. 골반이 뒤틀려서 걷는게 힘들거나 여성의 경우 생리통에 시달리는 경우 좋은 효과를 볼 수 있다.</string>
+
+    <string name="day2">day2</string>
+    <string name="day2_title">건강한 식단으로 챙겨먹기.</string>
+    <string name="day2_content">식단은 당신의 몸상태에 가장 큰 영향을 끼치는 것 중 하나다. 보통 간단하게 인스턴트 및 배달음식으로 해결하는 경우가 많은데, 이보다는 간단한 건강식 (고구마, 감자, 계란 및 과일) 혹은 더 여유가 있다면 슴슴한 반찬과 잡곡밥으로 식단을 구성하는 것을  추천한다.</string>
+
+    <string name="day3">day3</string>
+    <string name="day3_title">인간관계를 소중히 여기자.</string>
+    <string name="day3_content">사람은 사회적 동물이다. 아무리 내향적인 사람이라도 인간관계를 통해 사람을 만나고 교류하고 사회성을 터득하는 것은 매우 중요하다. 혹시나 당신이 절대 먼저 연락하지 않는 타입이라면 오늘이라도 친한 친구에게 연락해 밥 한 번 먹자는 메세지를 남겨보자. 분명 즐거운 시간이 될 것이다.</string>
+
+    <string name="day4">day4</string>
+    <string name="day4_title">몸을 청결하게 하기.</string>
+    <string name="day4_content">매일 세수하고 샤워하는 것은 생각보다 굉장한 효과를 발휘한다. 일어나서 욕실로 향해 몸을 청결하게 한다면 그 날 하루를 임하는 자세가 달라질 것이다.</string>
+
+    <string name="day5">day5</string>
+    <string name="day5_title">적어도 새벽 2시 이전에 취침하기.</string>
+    <string name="day5_content">의사들이 추천하는 취침 시간대는 10시~2시로 최소한 새벽 두 시 이전에 취침하는 것을 권장한다. 늦은 취침시간은 몸의 피로가 쌓일 뿐 아니라 우울한 생각에 쉽게 빠질 수 있는 시간대이다. 혹시 일찍 자는 것이 어렵다면 그 전날 하루 밤을 샌 후 일찍 잠에 드는 방법을 추천한다.</string>
+
+    <string name="day6">day6</string>
+    <string name="day6_title">하루에 1시간 이상 책상에 앉아 생산적인 활동하기.</string>
+    <string name="day6_content">만약 당신이 위와 같은 생활습관을 가졌다면 본격적으로 생산적인 활동을 시작할 시간이다. 영어나 제 2외국어, 자격증 준비, 혹은 자신이 만들고 싶은 창작물을 만드는 것도 좋다. 이러한 활동들은 작은 성취감을 부여하여 당신의 가치를 높이는데 좋은 동기부여가 될 것이다.</string>
+
+    <string name="day7">day7</string>
+    <string name="day7_title">하루 30분 산책하기.</string>
+    <string name="day7_content">가장 좋은 운동방법은 퍼스널 트레이닝이나 본인이 좋아하는 운동을 배우는 것이지만 본인의 체력이 현저히 떨어지거나 디스크가 있는 등 강도 높은 운동을 할 수 있는 상태가 아니라면 걷기를 강력하게 추천한다. 돈도 전혀 들지 않고 가볍게 꾸준히 할 수 있는 몇 없는 운동이다.</string>
+
+
+</resources>
