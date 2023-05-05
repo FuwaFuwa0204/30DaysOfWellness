@@ -3,7 +3,7 @@ package com.example.wellnessapp.model
 import com.example.wellnessapp.R
 import com.example.wellnessapp.data.Wellness
 
-class Datasource {
+object Datasource {
 
     val wellness = listOf<Wellness>(
         Wellness(R.string.day1,R.string.day1_title, R.string.day1_content, R.drawable.image1),

@@ -1,6 +1,5 @@
 package com.example.wellnessapp.ui.theme
 
-import Shapes
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
@@ -38,7 +37,6 @@ fun WellnessAppTheme(
     MaterialTheme(
         colorScheme = colorScheme,
         typography = Typography,
-        shapes = Shapes,
         content = content
     )
 }
