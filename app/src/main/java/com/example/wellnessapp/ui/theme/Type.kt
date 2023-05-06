@@ -10,7 +10,7 @@ import com.example.wellnessapp.R
 
 // Set of Material typography styles to start with
 val SrirachaRegular = FontFamily(
-    Font(R.font.sriracharegular)
+    Font(R.font.sriracha_regular)
 )
 
 val Typography = Typography(
